@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Logica App</string>
+    <string name="topFieldTxt">Conjuction (AND)</string>
+    <string name="txtA"> A </string>
+    <string name="txtB"> B </string>
+    <string name="txtT"> T </string>
+    <string name="txtF"> F </string>
+
+    <string name="SolutionAB"> A^B </string>
+    <string name="buttonTxt"> Submit </string>
+
+    <string name="correctAmount">Last Throw: %d</string>
+
+    <string name="correctAmt">The correct numbers of answers is: %d</string>
+
+
+    <string name="temp"> TOAST </string>
+
+</resources>
